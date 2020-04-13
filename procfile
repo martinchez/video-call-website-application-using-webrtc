@@ -1,0 +1,3 @@
+web: npm run watch 
+web: npm start
+rs
